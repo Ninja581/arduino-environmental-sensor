@@ -26,7 +26,7 @@
 
 |  Wiring | 
 | ------------- | 
- SD Card Reader: 
+| SD Card Reader: |
 | MOSI - pin 11 on Arduino Uno |
 | MISO - pin 12 on Arduino Uno |
 | CLK - pin 13 on Arduino Uno |
