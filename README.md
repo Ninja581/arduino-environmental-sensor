@@ -22,6 +22,7 @@
 | SD Card Reader |
 | SD Card |
 | DHT11 Temperature and Humidity Sensor |
+| Arduino Uno |
 
 |  Wiring | 
 | ------------- | 
