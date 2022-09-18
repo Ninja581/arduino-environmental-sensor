@@ -17,3 +17,8 @@
 
 ![Version](/img/INFO.png)
 
+|  Requirements | 
+| ------------- | 
+| SD Card Reader |
+| SD Card |
+| Temperature and Humidity Sensor |
