@@ -32,7 +32,6 @@
 | MISO - pin 12 on Arduino Uno |
 | CLK - pin 13 on Arduino Uno |
 | CS - pin 4 used here on your SD card shield |
-| CS - pin 4 used here on your SD card shield |
 | DHT11 Temperature and Humidity Sensor: |
 | Signal pin on Temperature and Humidity Sensor - pin 7 digital on Arduino Uno |
 
