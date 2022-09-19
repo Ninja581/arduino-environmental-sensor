@@ -36,8 +36,8 @@
 | Signal pin on Temperature and Humidity Sensor - pin 7 digital on Arduino Uno |
 
 |  Commands | Description of command |
-| ------------- | 
-| s1         Displays humidity and temperature. |
-| save s1    Saves humidity and temperature to memory card. |
-| read s1    Reads humidity and temperature file from memory card. |
-| init sd    This is recommended for new memory cards. |
+| --------- | ---------------------- | 
+| s1        | Displays humidity and temperature. |
+| save s1   | Saves humidity and temperature to memory card. |
+| read s1   | Reads humidity and temperature file from memory card. |
+| init sd   | This is recommended for new memory cards. |
