@@ -14,6 +14,7 @@
 | ------------- | 
 | Is operated by serial monitor commands. |
 | Saves temperature and humidity to sd card. |
+| Reads temperature and humidity last saved in file on sd card. |
 
 ![INFO](/img/INFO.png)
 
