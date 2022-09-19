@@ -35,7 +35,7 @@
 | DHT11 Temperature and Humidity Sensor: |
 | Signal pin on Temperature and Humidity Sensor - pin 7 digital on Arduino Uno |
 
-|  Commands | 
+|  Commands | Description of command |
 | ------------- | 
 | s1         Displays humidity and temperature. |
 | save s1    Saves humidity and temperature to memory card. |
