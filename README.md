@@ -2,11 +2,11 @@
 ![Version](/img/VERSION.png)
 | Version | In Work            |
 | ------- | ------------------ |
-|  0.0.1 | :white_check_mark: |
+|  0.0.1 | Completed |
 
 | Version  | Supported |
 | ------------- | ------------- |
-|  0.0.1  | Completed |
+|  0.0.1  | :white_check_mark: |
 
 ![FEATURES](/img/FEATURES.png)
 
